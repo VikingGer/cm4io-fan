@@ -1,3 +1,9 @@
+# EOL
+
+This project can be viewed as finished since the fan support now seems to be officially included:
+
+https://github.com/neggles/cm4io-fan/issues/18#issuecomment-2974069204
+
 # cm4io-fan
 
 This is a fork from https://github.com/neggles/cm4io-fan since it seems abandoned. It has been tested with Ubuntu 24.04 on a Waveshare board with a CM4.
